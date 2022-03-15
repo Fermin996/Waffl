@@ -1,0 +1,19 @@
+.initPanel{
+    background-color: aqua;
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 50%;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.initPanelBtn{
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 5px;
+}

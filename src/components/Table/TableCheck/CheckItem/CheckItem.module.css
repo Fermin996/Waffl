@@ -1,0 +1,44 @@
+.chItmDiv{
+    display: flex;
+    flex-direction: row;
+}
+
+.chItmDiv div{
+    margin-top: 10px;
+}
+
+.itmColumn{
+    width:40%;
+}
+
+.itmColumn2{
+    width:25%;
+}
+
+.itmColumn3{
+    width:25%;
+}
+
+.modItem{
+    font-size: 15px;
+    color: rgb(0,0,0, 0.65);
+    text-align:left;
+    margin-left:60px;
+}
+
+.bItemStyle{
+    border: 1px solid black;
+    padding:5px;
+}
+
+.alreadySent{
+    background-color: lightslategray;
+    padding:5px;
+    border: 1px solid black;
+}
+
+.itemSelected{
+    background-color: aqua;
+    padding:5px;
+    border: 1px solid black;
+}

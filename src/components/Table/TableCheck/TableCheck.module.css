@@ -1,0 +1,108 @@
+.checkDiv{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height:100%;
+}
+
+.checkDivItems{
+    margin:20px;
+}
+
+.checkHeader{
+    display: flex;
+    flex-direction: row;
+}
+
+.itemDiv{
+    width:40%;
+}
+
+.itemDiv2{
+    width:25%;
+}
+
+.itemDiv3{
+    width:25%;
+}
+
+.checkEdit{
+    border:1px solid black;
+    height: 300px;
+    width:100%;
+    background-color: rgb(224, 222, 222);
+}
+
+.editBtns{
+    display:flex;
+    flex-direction: row;
+}
+
+.btn1{
+    margin: 5px;
+    background-color: rgb(212, 212, 210);
+    height: 40px;
+    border: 1px solid rgb(140,140,140,);
+    border-bottom: 3px solid rgb(140, 140, 140);
+    border-radius: 5px;
+}
+
+.btn1 p{
+    margin: 0 auto;
+    padding:5px;
+    font-size: 20px;
+}
+
+.btn2{
+    margin: 5px;
+    background-color: rgb(243, 187, 65);
+    height: 40px;
+    border: 1px solid rgb(140,140,140,);
+    border-bottom: 3px solid rgb(140, 140, 140);
+    border-radius: 5px;
+}
+
+.btn2 p{
+    margin: 0 auto;
+    padding:5px;
+    font-size: 20px;
+}
+
+.actualHeader{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+
+.tableP{
+    margin: 0;
+    height:30px;
+    font-size: 15px;
+}
+
+.addCheck{
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.checkTabBtns{
+    display: flex;
+    flex-direction: row;
+}
+
+.tabBtn{
+    border:1px solid black;
+    border-radius: 5px;
+    padding:5px;
+    margin-right: 10px;
+}
+
+.clickedTabBtn{
+    border:1px solid black;
+    border-radius: 5px;
+    padding:5px;
+    margin-right: 10px;
+    background-color: grey;
+}

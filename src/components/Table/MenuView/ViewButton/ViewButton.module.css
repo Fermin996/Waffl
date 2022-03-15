@@ -1,0 +1,19 @@
+.vButtonDiv{
+
+    border:1px solid white;
+    width: 20%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(255,44,234);
+    color: whitesmoke;
+}
+
+.buttonClicked{
+    border:1px solid rgb(255,44,234);
+    width: 20%;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
